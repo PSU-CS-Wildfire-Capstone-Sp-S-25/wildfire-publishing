@@ -29,3 +29,11 @@ draft = false
 +++
 ```
 Then, write your page content in Markdown below the header. You can use standard Markdown syntax for formatting.
+
+# How to add images
+To add images, place them in the `static/images` directory. You can then reference them in your posts or pages using Markdown syntax:
+
+```markdown
+![Alt text](/images/my-image.jpg)
+```
+
