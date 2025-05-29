@@ -37,3 +37,5 @@ To add images, place them in the `static/images` directory. You can then referen
 ![Alt text](/images/my-image.jpg)
 ```
 
+# Zola Links
+For more information on how to use Zola, refer to the [Zola documentation](https://www.getzola.org/documentation/).
